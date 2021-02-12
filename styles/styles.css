@@ -1,0 +1,68 @@
+
+
+
+body{
+  margin: 0;
+  text-align: center;
+}
+
+.top_container{
+  padding: 60px;
+  position: relative;
+  background-color: #e4f9f5;
+}
+h1{
+  font-size: 400%;
+  font-family: 'Sacramento', cursive;
+  margin: 30px auto 0 auto;
+  color: #66BFBF;
+}
+p{
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.upper_cloud{
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.lower_cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+.personal{
+  width: 20%;
+  height: auto;
+}
+.webD{
+  float: left;
+  width: 60%;
+  height: auto;
+  padding-right: 20px;
+}
+.ChEss{
+  float: right;
+  width: 45%;
+  height: auto;
+  padding-left: 20px;
+}
+h2{
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
